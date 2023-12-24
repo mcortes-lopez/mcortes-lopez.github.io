@@ -22,7 +22,7 @@ role: Postdoctoral Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Weill Cornell Medicine | New York Genome Center
-    url: [https://www.landaulab.org/people](https://www.landaulab.org/people)
+    url: https://www.landaulab.org/people
 
 # Short bio (displayed in user profile at end of posts)
 bio: Alternative splicing in alternative music
