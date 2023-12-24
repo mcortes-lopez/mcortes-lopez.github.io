@@ -65,7 +65,7 @@ tags:
 - BAX; RNA-seq; SF3B1; clonal hematopoiesis; genotyping; long-read sequencing; multi-omics;
   myelodysplastic syndrome; single cell; splicing
 
-featured: true
+featured: false
 
 links:
   url_video: 'https://youtu.be/noYbYx6Z6qk?feature=shared'
