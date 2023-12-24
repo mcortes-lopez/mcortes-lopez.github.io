@@ -36,8 +36,14 @@ authors:
 - Omar Abdel-Wahab
 - Federico Gaiti
 - Dan A Landau
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: '2023-09-01'
 publishDate: '2023-12-24T15:41:54.931106Z'
+doi: "https://doi.org/10.1016/j.stem.2023.07.012"
 publication_types:
 - article-journal
 publication: '*Cell Stem Cell*'
@@ -58,4 +64,11 @@ abstract: RNA splicing factors are recurrently mutated in clonal blood disorders
 tags:
 - BAX; RNA-seq; SF3B1; clonal hematopoiesis; genotyping; long-read sequencing; multi-omics;
   myelodysplastic syndrome; single cell; splicing
+
+featured: true
+
+links:
+  url_video: 'https://youtu.be/noYbYx6Z6qk?feature=shared'
+  url_video:  'https://nanoporetech.com/resource-centre/ncm-2023-houston-got-splice-unraveling-cell-type-specific-impact-splicing-factor'
+
 ---
