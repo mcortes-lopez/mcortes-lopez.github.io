@@ -1,0 +1,27 @@
+---
+title: Emerging functions of Circular RNAs
+authors:
+- Mariela Cortés-López
+- Pedro Miura
+date: '2016-12-01'
+publishDate: '2023-12-24T15:41:54.995676Z'
+publication_types:
+- article-journal
+publication: '*Yale J. Biol. Med.*'
+abstract: Many thousands of Circular RNAs (circRNAs) have recently been identified
+  in metazoan genomes by transcriptome-wide sequencing. Most circRNAs are generated
+  by back-splicing events from exons of protein-coding genes. A great deal of progress
+  has recently been made in understanding the genome-wide expression patterns, biogenesis,
+  and regulation of circRNAs. To date, however, few functions of circRNAs have been
+  identified. CircRNAs are preferentially expressed in neural tissues and some are
+  found at synapses, suggesting possible functions in the nervous system. Several
+  circRNAs have been shown to function as microRNA ``sponges'' to counteract microRNA
+  mediated repression of mRNA. New functions for circRNAs are arising, including protein
+  sequestration, transcriptional regulation, and potential functions in cancer. Here,
+  we highlight the recent progress made in understanding the biogenesis and regulation
+  of circRNAs, discuss newly uncovered circRNA functions, and explain the methodological
+  approaches that could reveal more exciting and unexpected roles for these RNAs.
+tags:
+- EIciRNAs; RNA-seq; aging; alternative splicing; ceRNA; ciRNAs; circRNAs; microRNA;
+  non-coding RNA; transcriptome
+---
