@@ -76,9 +76,7 @@ sections:
           location: Reno, NV
           date_start: '2015-08-01'
           date_end: '2016-08-30'
-          description: Internship and bachelor thesis project. Developing a computational pipeline to analyze RNA-Seq
-data in order to identify circRNA transcript.
-
+          description: Internship and bachelor thesis project. Developing a computational pipeline to analyze RNA-Seq data in order to identify circRNA transcript.
     design:
       columns: '2'
   - block: collection
