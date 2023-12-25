@@ -66,9 +66,5 @@ tags:
   myelodysplastic syndrome; single cell; splicing
 
 featured: false
-
-links:
-  url_video: 'https://youtu.be/noYbYx6Z6qk?feature=shared'
-  url_video:  'https://nanoporetech.com/resource-centre/ncm-2023-houston-got-splice-unraveling-cell-type-specific-impact-splicing-factor'
-
+url_video: 'https://youtu.be/noYbYx6Z6qk?feature=shared'
 ---
