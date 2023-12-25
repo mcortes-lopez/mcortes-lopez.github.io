@@ -53,7 +53,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/alt_spliced
     label: Follow me on X
@@ -79,5 +79,5 @@ social:
 highlight_name: true
 ---
 
-Mariela Cortés López is a postdoctoral researcher in the Landau Lab at Weill Cornell and NYGC. She earned her PhD in biology from the Johannes Gutenberg University of Mainz, Germany, where she studied the influence of mutations in splicing of cancer-relevant genes. Currently, her primary research focuses on dissecting the cell-type specific mechanisms of RNA regulation by integrating long-read sequencing technologies with single-cell multi-omics assays. 
+I am a postdoctoral researcher in the Landau Lab at Weill Cornell and NYGC. Currently, my primary research focuses on dissecting the cell-type specific mechanisms of RNA regulation by integrating long-read sequencing technologies with single-cell multi-omics assays. 
 {style="text-align: justify;"}
