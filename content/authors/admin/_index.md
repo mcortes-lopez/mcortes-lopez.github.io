@@ -80,4 +80,5 @@ highlight_name: true
 ---
 
 I am a postdoctoral researcher in the Landau Lab at Weill Cornell and NYGC. Currently, my primary research focuses on dissecting the cell-type specific mechanisms of RNA regulation by integrating long-read sequencing technologies with single-cell multi-omics assays. 
+
 {style="text-align: justify;"}
