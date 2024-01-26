@@ -4,7 +4,7 @@ title: "GoT-Splice: unraveling cell-type-specific impact of splicing factor muta
 event: Nanopore Community Meeting 2023
 event_url: https://nanoporetech.com/ncm23
 
-location: Five Seasons Hotel, Houston TX
+location: Four Seasons Hotel, Houston TX
 address:
   city: Houston
   region: TX
