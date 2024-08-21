@@ -14,7 +14,7 @@ address:
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-06-01'
 #date_end: '2023-11-07T15:00:00Z'
-#all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-06-01T00:00:00Z'
