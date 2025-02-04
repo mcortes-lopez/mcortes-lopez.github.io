@@ -53,10 +53,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/alt_spliced
-    label: Follow me on X
+    link: https://bsky.app/profile/altspliced.bsky.social
+    label: Follow me in BlueSky
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -79,6 +79,6 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral researcher in the Landau Lab at Weill Cornell and NYGC. Currently, my primary research focuses on dissecting the cell-type specific mechanisms of RNA regulation by integrating long-read sequencing technologies with single-cell multi-omics assays. 
+I am a postdoctoral researcher in the Landau Lab at Weill Cornell and NYGC. Currently, my primary research focuses on dissecting the cell-type specific mechanisms of RNA regulation by integrating long-read sequencing technologies with single-cell multi-omics assays. NIH-NCI Early K99/R00 Pathway to Independence Fellow.
 
 {style="text-align: justify;"}
